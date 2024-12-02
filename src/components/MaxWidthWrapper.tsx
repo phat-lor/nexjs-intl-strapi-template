@@ -1,4 +1,4 @@
-import { cn } from "@/lib/utils";
+import { cn } from "@nextui-org/theme";
 import { ReactNode } from "react";
 
 const MaxWidthWrapper = ({
