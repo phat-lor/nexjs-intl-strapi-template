@@ -1,0 +1,31 @@
+{
+	"metadata": {
+		"language": "en",
+		"version": "1.0.0"
+	},
+
+	"landing": {
+		"title": "👋 Welcome to my NextJS Strapi Template",
+
+		"cmsStatus": {
+			"title": "CMS Status",
+			"subtitle": "This will show response from Strapi API.",
+			"online": "Online",
+			"problem": "Down",
+			"dataFetched": "Response (SSR)"
+		},
+
+		"playground": {
+			"title": "Playground",
+			"subtitle": "This is a playground to test the template features.",
+			"fetchData": "Fetch Data",
+			"response": "Response",
+			"error": "Error",
+			"loading": "Loading...",
+			"success": "Success",
+			"failed": "Failed",
+			"language": "Language (next-intl)",
+			"cmsDown": "Playground is disabled due to CMS is down."
+		}
+	}
+}
